@@ -1,0 +1,23 @@
+
+
+
+
+.read-the-docs {
+  color: #888;
+}
+.section{
+  background-image: url("https://media.istockphoto.com/id/1573329496/photo/multi-layers-color-texture-3d-papercut-layers-in-gradient-vector-banner-carving-art-cover.jpg?s=2048x2048&w=is&k=20&c=V9r3neJyZMj592uuC9_sKxgWSr3-9NO2i7oxifWttIU=");
+  border: 2px solid red;
+  margin: 0px;
+  padding: 0px;
+
+}
+.pass{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.container{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.inp{
+  background-color: rgba(255, 255, 255, 0.2);
+}
